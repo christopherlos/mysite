@@ -1,0 +1,311 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+	margin:0;
+	padding:0;
+	font-family: 'Lato', san-serif;
+}
+/** Navbar Styling **/
+
+.logo {
+	width:100%;
+	max-width:30px;
+	padding:50px;
+}
+
+.navbar ul {
+	list-style: none;
+	padding:0;
+	display: flex;
+}
+
+.navbar a {
+	text-decoration: none;
+	color: #202214;
+	padding:10px;
+	margin: 0px 30px;
+	font-family: 'Lato', san-serif;
+}
+
+.navbar {
+	height:120px;
+	padding:0px 50px;
+}
+
+.navbar .flex {
+	display: flex;
+	align-items:center;
+	height:100%;	
+}
+
+.navbar a:hover {
+	color:#1a73e8;
+	border-bottom: 2px #1a73e8 solid;
+}
+
+/** Showcase Styling **/
+
+.showcase {
+	height:900px;
+}
+
+.background-image {
+	background-image: url('../images/blue-corner.png');
+  	background-repeat: no-repeat;
+ 	background-position: right top; 
+}
+
+.background-image2 {
+	background-image: url('../images/skills-background.png');
+  	background-repeat: no-repeat;
+ 	background-position: center;
+}
+
+
+.container-showcase {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.showcase-text h1 {
+	font-family: 'Lato', san-serif;
+	font-size: 80px;
+	padding-bottom: 40px;
+}
+
+.showcase-text p {
+	font-family: 'Lato', san-serif;
+	padding-bottom: 60px;
+}
+
+.showcase-text {
+	padding-left: 200px;
+	padding-bottom: 50px;
+}
+
+.showcase-image img {
+	width:100%;
+	max-width:550px;
+	padding-left: 160px;
+	padding-top: 120px;
+}
+
+.button {
+	font-family: 'Lato', 'san-serif'
+	display: inline-block;
+	padding: 17px 51px;
+	margin-right: 25px;
+	background-color: #1a73e8;
+	color: white;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.button2 {
+	font-family: 'Lato', 'san-serif'
+	display: inline-block;
+	padding: 14px 39px;
+	margin-right: 25px;
+	background-color: transparent;
+	color: #1a73e8;
+	border-color:#1a73e8;
+	border-radius: 5px;
+	cursor: pointer;
+	
+}
+
+.button-contact {
+	font-family: 'Lato', 'san-serif'
+	display: inline-block;
+	padding: 17px 51px;
+	background-color: #1a73e8;
+	color: white;
+	border:none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.button:hover {
+	transform: scale(.97);
+}
+
+.button2:hover {
+	transform: scale(.97);
+}
+
+.button-contact:hover {
+	transform: scale(.97);
+}
+
+.icon-button {
+	width:100%;
+	max-width:12px;
+	padding-left: 5px;
+
+}
+
+/** Skills Section **/
+
+.skills {
+	height:900px;
+	display: grid;
+	justify-content: center;
+}
+
+.skills input {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button-container {
+	padding: 50px;
+}
+
+.skills-heading {
+	font-family: 'Lato', san-serif;
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+}
+
+.skills-titles {
+	font-family: 'Lato', san-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.skills-box1 {
+	height:300px;
+	display: grid;
+	align-items: center;
+	border: 1px #202214 solid;
+	border-radius: 40px;
+	width:100%;
+	max-width:250px;
+	margin:50px;
+	padding:30px;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skills-box1 p {
+	font-family: 'Lato', san-serif;
+	text-align: center;
+	font-size:13px;
+}
+
+
+.grid-3 {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	
+}
+
+.skills-box1 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/** My Work Section **/
+
+.my-work {
+	height:900px;
+}
+.work-flex {
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+
+}
+
+.work-box {
+	flex:1;
+	height:300px;
+	border: 1px #202214 solid;
+	border-radius: 40px;
+	width:100%;
+	max-width:250px;
+	margin:50px;
+	padding:30px;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.work-box1 {
+	flex:1;
+	height:300px;
+	border: 1px #202214 solid;
+	border-radius: 40px;
+	width:100%;
+	max-width:250px;
+	margin:50px;
+	padding:30px;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.work-box2 {
+	flex:1;
+	height:300px;
+	border: 1px #202214 solid;
+	border-radius: 40px;
+	width:100%;
+	max-width:250px;
+	margin:50px;
+	padding:30px;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.my-work input {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+/** Contact Section **/
+
+.contact {
+	height:900px;
+}
+
+.contact-section {
+	max-width:600px;
+	margin:auto;
+	text-align: center;
+	padding:0 10px;
+}
+
+.button-contact {
+	margin:20px;
+}
+
+.contact-form-text {
+	display: block;
+	width:100%;
+	max-width:450px;
+	padding:20px;
+	margin:50px;
+	resize:none;
+}
+
+.contact-form-message {
+	display: block;
+	width:100%;
+	max-width:450px;
+	padding:20px;
+	margin:50px;
+	resize:none;
+	height:150px;
+}
+
+
+.contact-form-text:focus {
+	outline:none;
+}

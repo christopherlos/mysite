@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1904.561" height="2907.216" viewBox="0 0 1904.561 2907.216">
+  <defs>
+    <filter id="Rectangle_1099" x="0" y="0" width="1904.561" height="1904.561" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 302 303">
+      <image width="302" height="303" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="background" transform="translate(-1162.72 809.381)">
+    <g transform="matrix(1, 0, 0, 1, 1162.72, -809.38)" filter="url(#Rectangle_1099)">
+      <rect id="Rectangle_1099-2" data-name="Rectangle 1099" width="1350" height="1318" rx="132" transform="translate(1889.56 934.97) rotate(135)" fill="#1a73e8"/>
+    </g>
+    <g id="cl_logo_blue_2x" data-name="cl logo blue@2x" transform="translate(1812 608)">
+      <rect id="cl_logo_blue_2x-2" data-name="cl logo blue@2x" width="40" height="40" transform="translate(40) rotate(90)" opacity="0.5" fill="url(#pattern)"/>
+    </g>
+    <g id="Component_5_1" data-name="Component 5 – 1" transform="translate(1758.287 165.408)">
+      <g id="Path_198" data-name="Path 198" transform="translate(21.213) rotate(45)" fill="none">
+        <path d="M0,0H30V30H0V0Z" stroke="none"/>
+        <path d="M 4.000001907348633 4.000001907348633 L 4.000001907348633 17.14285087585449 L 4.000001907348633 26 L 26 26 L 26 12.50000190734863 L 26 4.000001907348633 L 4.000001907348633 4.000001907348633 M 1.9073486328125e-06 1.9073486328125e-06 L 30 1.9073486328125e-06 L 30 12.50000190734863 L 30 30 L 1.9073486328125e-06 30 L 1.9073486328125e-06 17.14285087585449 L 1.9073486328125e-06 1.9073486328125e-06 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Path_200" data-name="Path 200" transform="translate(1222.213 2055.408) rotate(45)" fill="none">
+      <path d="M0,0H30V30H0V0Z" stroke="none"/>
+      <path d="M 4.000001907348633 4.000001907348633 L 4.000001907348633 17.14285087585449 L 4.000001907348633 26 L 26 26 L 26 12.50000190734863 L 26 4.000001907348633 L 4.000001907348633 4.000001907348633 M 1.9073486328125e-06 1.9073486328125e-06 L 30 1.9073486328125e-06 L 30 12.50000190734863 L 30 30 L 1.9073486328125e-06 30 L 1.9073486328125e-06 17.14285087585449 L 1.9073486328125e-06 1.9073486328125e-06 Z" stroke="none" fill="#1a73e8"/>
+    </g>
+    <g id="cirlce_pattern" data-name="cirlce pattern" transform="translate(-68 23)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 143)" fill="#b2b2b2"/>
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 143)" fill="#b2b2b2"/>
+      <circle id="Ellipse_21" data-name="Ellipse 21" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 49)" fill="#b2b2b2"/>
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 49)" fill="#b2b2b2"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 143)" fill="#b2b2b2"/>
+      <circle id="Ellipse_20" data-name="Ellipse 20" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 49)" fill="#b2b2b2"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 143)" fill="#b2b2b2"/>
+      <circle id="Ellipse_19" data-name="Ellipse 19" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 49)" fill="#b2b2b2"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 143)" fill="#b2b2b2"/>
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 49)" fill="#b2b2b2"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 96)" fill="#b2b2b2"/>
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 96)" fill="#b2b2b2"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 2)" fill="#b2b2b2"/>
+      <circle id="Ellipse_46" data-name="Ellipse 46" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 190)" fill="#b2b2b2"/>
+      <circle id="Ellipse_45" data-name="Ellipse 45" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 190)" fill="#b2b2b2"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 96)" fill="#b2b2b2"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 2)" fill="#b2b2b2"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 190)" fill="#b2b2b2"/>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 96)" fill="#b2b2b2"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 2)" fill="#b2b2b2"/>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 190)" fill="#b2b2b2"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 96)" fill="#b2b2b2"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 2)" fill="#b2b2b2"/>
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 190)" fill="#b2b2b2"/>
+    </g>
+    <g id="cirlce_pattern-2" data-name="cirlce pattern" transform="translate(230 508)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 143)" fill="#fff"/>
+      <circle id="Ellipse_37-2" data-name="Ellipse 37" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 143)" fill="#fff"/>
+      <circle id="Ellipse_21-2" data-name="Ellipse 21" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 49)" fill="#fff"/>
+      <circle id="Ellipse_36-2" data-name="Ellipse 36" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 49)" fill="#fff"/>
+      <circle id="Ellipse_13-2" data-name="Ellipse 13" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 143)" fill="#fff"/>
+      <circle id="Ellipse_20-2" data-name="Ellipse 20" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 49)" fill="#fff"/>
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 143)" fill="#fff"/>
+      <circle id="Ellipse_19-2" data-name="Ellipse 19" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 49)" fill="#fff"/>
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 143)" fill="#fff"/>
+      <circle id="Ellipse_18-2" data-name="Ellipse 18" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 49)" fill="#fff"/>
+      <circle id="Ellipse_7-2" data-name="Ellipse 7" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 96)" fill="#fff"/>
+      <circle id="Ellipse_29-2" data-name="Ellipse 29" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 96)" fill="#fff"/>
+      <circle id="Ellipse_17-2" data-name="Ellipse 17" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 2)" fill="#fff"/>
+      <circle id="Ellipse_46-2" data-name="Ellipse 46" cx="3.5" cy="3.5" r="3.5" transform="translate(1506 190)" fill="#fff"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 2)" fill="#fff"/>
+      <circle id="Ellipse_45-2" data-name="Ellipse 45" cx="3.5" cy="3.5" r="3.5" transform="translate(1318 190)" fill="#fff"/>
+      <circle id="Ellipse_11-2" data-name="Ellipse 11" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 96)" fill="#fff"/>
+      <circle id="Ellipse_16-2" data-name="Ellipse 16" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 2)" fill="#fff"/>
+      <circle id="Ellipse_43-2" data-name="Ellipse 43" cx="3.5" cy="3.5" r="3.5" transform="translate(1412 190)" fill="#fff"/>
+      <circle id="Ellipse_8-2" data-name="Ellipse 8" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 96)" fill="#fff"/>
+      <circle id="Ellipse_15-2" data-name="Ellipse 15" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 2)" fill="#fff"/>
+      <circle id="Ellipse_41-2" data-name="Ellipse 41" cx="3.5" cy="3.5" r="3.5" transform="translate(1459 190)" fill="#fff"/>
+      <circle id="Ellipse_10-2" data-name="Ellipse 10" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 96)" fill="#fff"/>
+      <circle id="Ellipse_14-2" data-name="Ellipse 14" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 2)" fill="#fff"/>
+      <circle id="Ellipse_39-2" data-name="Ellipse 39" cx="3.5" cy="3.5" r="3.5" transform="translate(1365 190)" fill="#fff"/>
+    </g>
+    <g id="Component_6_1" data-name="Component 6 – 1" transform="translate(1617 330)">
+      <g id="Ellipse_38" data-name="Ellipse 38" fill="none" stroke="#fff" stroke-width="4">
+        <circle cx="15" cy="15" r="15" stroke="none"/>
+        <circle cx="15" cy="15" r="13" fill="none"/>
+      </g>
+    </g>
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(1380 184)">
+      <g id="Polygon_1" data-name="Polygon 1" fill="none">
+        <path d="M15,0,30,26H0Z" stroke="none"/>
+        <path d="M 14.99999904632568 8.004438400268555 L 6.925636291503906 22 L 23.07435989379883 22 L 14.99999904632568 8.004438400268555 M 14.99999904632568 0 L 30 26 L -1.9073486328125e-06 26 L 14.99999904632568 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
